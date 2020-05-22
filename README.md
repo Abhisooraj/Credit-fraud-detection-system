@@ -4,3 +4,5 @@ There are 3 major class imbalance techniques implemented in this work:
 1. Ovesampling
 2. Undesrsampling
 3. OverSampling followed by Undersampling
+ 
+# Machine learning using python
