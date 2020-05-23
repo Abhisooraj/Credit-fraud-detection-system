@@ -8,3 +8,9 @@ There are 3 major class imbalance techniques implemented in this work:
 # Imbalanced Dataset:
 ![Dataset](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Dataset.png)
 ![Dataset_seperate](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Dataset_seperate.png)
+
+## Architecture:
+Architecture of Credit card fraud detection System
+<h3> Block-Diagram of Classification based Credit card fraud detection System </h4>
+
+![architecture_image](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Architecture.png)
