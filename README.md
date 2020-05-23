@@ -7,3 +7,4 @@ There are 3 major class imbalance techniques implemented in this work:
  
 # Imbalanced Dataset:
 ![Dataset](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Dataset.png)
+![Dataset_seperate](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Dataset_seperate.png)
