@@ -5,4 +5,5 @@ There are 3 major class imbalance techniques implemented in this work:
 2. Undesrsampling
 3. OverSampling followed by Undersampling
  
-# Machine learning using python
+# Imbalanced Dataset:
+![Dataset](https://github.com/Abhisooraj/Credit-fraud-detection-system/blob/master/Images/Dataset.png)
