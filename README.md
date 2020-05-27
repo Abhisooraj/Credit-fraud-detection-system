@@ -26,8 +26,8 @@ Architecture of Credit card fraud detection System: </b>
 
 
 For building the model of this problem the most important issue is that the dataset having class imbalance issues. hence various class Imbalance techniques are implemented. 
-<br/> After handling this class imbalance issues, this system will identify fraud and benign transactions in all the card transactions. 
-This system will be built using Machine Learning classifiers and various class Imbalance techniques.
+<br/> After handling this class imbalance issues,The model get trained on various Machine learning algorithms and this system is able to identify fraud and benign transactions in all the card transactions. 
+This system will be buil
 
 <h3> Block-Diagram of Classification based Credit card fraud detection System </h4>
 
